@@ -1,0 +1,72 @@
+C:\Users\m9501449\Documents\Visual Studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\m9501449\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\MyProject.dll.config
+C:\Users\m9501449\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\MyProject.dll
+C:\Users\m9501449\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\MyProject.pdb
+C:\Users\m9501449\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\EntityFramework.dll
+C:\Users\m9501449\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\EntityFramework.SqlServer.dll
+C:\Users\m9501449\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\Newtonsoft.Json.dll
+C:\Users\m9501449\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\System.Web.Helpers.dll
+C:\Users\m9501449\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\System.Web.Mvc.dll
+C:\Users\m9501449\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\System.Web.Razor.dll
+C:\Users\m9501449\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\System.Web.Webpages.Deployment.dll
+C:\Users\m9501449\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\System.Web.Webpages.dll
+C:\Users\m9501449\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\System.Web.Webpages.Razor.dll
+C:\Users\m9501449\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\EntityFramework.xml
+C:\Users\m9501449\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\EntityFramework.SqlServer.xml
+C:\Users\m9501449\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\Newtonsoft.Json.xml
+C:\Users\m9501449\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\System.Web.Razor.xml
+C:\Users\m9501449\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\System.Web.Webpages.xml
+C:\Users\m9501449\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\System.Web.Webpages.Deployment.xml
+C:\Users\m9501449\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\System.Web.Webpages.Razor.xml
+C:\Users\m9501449\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\System.Web.Helpers.xml
+C:\Users\m9501449\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\System.Web.Mvc.xml
+C:\Users\m9501449\Documents\Visual Studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.dll
+C:\Users\m9501449\Documents\Visual Studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.pdb
+C:\Users\yuyan\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\MyProject.dll.config
+C:\Users\yuyan\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\MyProject.dll
+C:\Users\yuyan\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\MyProject.pdb
+C:\Users\yuyan\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\EntityFramework.dll
+C:\Users\yuyan\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\EntityFramework.SqlServer.dll
+C:\Users\yuyan\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\Newtonsoft.Json.dll
+C:\Users\yuyan\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\System.Web.Helpers.dll
+C:\Users\yuyan\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\System.Web.Mvc.dll
+C:\Users\yuyan\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\System.Web.Razor.dll
+C:\Users\yuyan\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\System.Web.Webpages.Deployment.dll
+C:\Users\yuyan\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\System.Web.Webpages.dll
+C:\Users\yuyan\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\System.Web.Webpages.Razor.dll
+C:\Users\yuyan\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\EntityFramework.xml
+C:\Users\yuyan\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\EntityFramework.SqlServer.xml
+C:\Users\yuyan\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\Newtonsoft.Json.xml
+C:\Users\yuyan\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\System.Web.Razor.xml
+C:\Users\yuyan\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\System.Web.Webpages.xml
+C:\Users\yuyan\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\System.Web.Webpages.Deployment.xml
+C:\Users\yuyan\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\System.Web.Webpages.Razor.xml
+C:\Users\yuyan\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\System.Web.Helpers.xml
+C:\Users\yuyan\Documents\Visual Studio 2013\Projects\MyProject\MyProject\bin\System.Web.Mvc.xml
+C:\Users\yuyan\Documents\Visual Studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\yuyan\Documents\Visual Studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.dll
+C:\Users\yuyan\Documents\Visual Studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.pdb
+C:\Users\yuyan\Documents\Visual Studio 2013\MVC Projects\MyProject\MyProject\bin\MyProject.dll.config
+C:\Users\yuyan\Documents\Visual Studio 2013\MVC Projects\MyProject\MyProject\bin\MyProject.dll
+C:\Users\yuyan\Documents\Visual Studio 2013\MVC Projects\MyProject\MyProject\bin\MyProject.pdb
+C:\Users\yuyan\Documents\Visual Studio 2013\MVC Projects\MyProject\MyProject\bin\EntityFramework.dll
+C:\Users\yuyan\Documents\Visual Studio 2013\MVC Projects\MyProject\MyProject\bin\EntityFramework.SqlServer.dll
+C:\Users\yuyan\Documents\Visual Studio 2013\MVC Projects\MyProject\MyProject\bin\Newtonsoft.Json.dll
+C:\Users\yuyan\Documents\Visual Studio 2013\MVC Projects\MyProject\MyProject\bin\System.Web.Helpers.dll
+C:\Users\yuyan\Documents\Visual Studio 2013\MVC Projects\MyProject\MyProject\bin\System.Web.Mvc.dll
+C:\Users\yuyan\Documents\Visual Studio 2013\MVC Projects\MyProject\MyProject\bin\System.Web.Razor.dll
+C:\Users\yuyan\Documents\Visual Studio 2013\MVC Projects\MyProject\MyProject\bin\System.Web.Webpages.Deployment.dll
+C:\Users\yuyan\Documents\Visual Studio 2013\MVC Projects\MyProject\MyProject\bin\System.Web.Webpages.dll
+C:\Users\yuyan\Documents\Visual Studio 2013\MVC Projects\MyProject\MyProject\bin\System.Web.Webpages.Razor.dll
+C:\Users\yuyan\Documents\Visual Studio 2013\MVC Projects\MyProject\MyProject\bin\EntityFramework.xml
+C:\Users\yuyan\Documents\Visual Studio 2013\MVC Projects\MyProject\MyProject\bin\EntityFramework.SqlServer.xml
+C:\Users\yuyan\Documents\Visual Studio 2013\MVC Projects\MyProject\MyProject\bin\Newtonsoft.Json.xml
+C:\Users\yuyan\Documents\Visual Studio 2013\MVC Projects\MyProject\MyProject\bin\System.Web.Razor.xml
+C:\Users\yuyan\Documents\Visual Studio 2013\MVC Projects\MyProject\MyProject\bin\System.Web.Webpages.xml
+C:\Users\yuyan\Documents\Visual Studio 2013\MVC Projects\MyProject\MyProject\bin\System.Web.Webpages.Deployment.xml
+C:\Users\yuyan\Documents\Visual Studio 2013\MVC Projects\MyProject\MyProject\bin\System.Web.Webpages.Razor.xml
+C:\Users\yuyan\Documents\Visual Studio 2013\MVC Projects\MyProject\MyProject\bin\System.Web.Helpers.xml
+C:\Users\yuyan\Documents\Visual Studio 2013\MVC Projects\MyProject\MyProject\bin\System.Web.Mvc.xml
+C:\Users\yuyan\Documents\Visual Studio 2013\MVC Projects\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\yuyan\Documents\Visual Studio 2013\MVC Projects\MyProject\MyProject\obj\Debug\MyProject.dll
+C:\Users\yuyan\Documents\Visual Studio 2013\MVC Projects\MyProject\MyProject\obj\Debug\MyProject.pdb
